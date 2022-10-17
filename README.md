@@ -36,7 +36,7 @@ Run container
 
     >docker run YOUR_NAME
 
-# IDENTIFICACION DE PRINCIPIOS SOLID
+# IDENTIFICACIÓN DE PRINCIPIOS SOLID
 
 1. Single Responsability Principle
     El primer principio SOLID identificado es el de "The single responsability principle". Este lo encontramos en el modulo
@@ -44,7 +44,7 @@ Run container
     confirmar que se esta haciendo uso del principio. Cada clase dentor del modulo esta exclusivamente enfocada en el formato para la que ha sido diseñada.
 
     Archivo: print_report.py
-    
+
         Clase: TxtReport -> Es encargada del reporte en txt
         LOF: 4-54
         
